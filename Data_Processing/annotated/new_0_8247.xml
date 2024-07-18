@@ -1,0 +1,26 @@
+<annotation>
+	<folder>augmented</folder>
+	<filename>new_0_8247.png</filename>
+	<path>/Users/skshah/yolo/images/augmented/new_0_8247.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>332</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask_weared_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>84</ymin>
+			<xmax>282</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

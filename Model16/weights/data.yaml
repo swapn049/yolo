@@ -1,4 +1,0 @@
-train: /content/drive/MyDrive/colab/YOLO/images/train
-val: /content/drive/MyDrive/colab/YOLO/images/test
-nc: 3
-names: ["with_mask","without_mask","mask_weared_incorrect"]
